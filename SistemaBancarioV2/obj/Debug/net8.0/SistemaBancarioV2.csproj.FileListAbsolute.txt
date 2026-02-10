@@ -1,0 +1,15 @@
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\bin\Debug\net8.0\SistemaBancarioV2.exe
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\bin\Debug\net8.0\SistemaBancarioV2.deps.json
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\bin\Debug\net8.0\SistemaBancarioV2.runtimeconfig.json
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\bin\Debug\net8.0\SistemaBancarioV2.dll
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\bin\Debug\net8.0\SistemaBancarioV2.pdb
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.AssemblyInfoInputs.cache
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.AssemblyInfo.cs
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.csproj.CoreCompileInputs.cache
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.dll
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\refint\SistemaBancarioV2.dll
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.pdb
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.genruntimeconfig.cache
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\ref\SistemaBancarioV2.dll
+C:\Users\mike.costa\source\repos\SistemaBancario\SistemaBancarioV2\obj\Debug\net8.0\SistemaBancarioV2.sourcelink.json
